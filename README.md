@@ -13,9 +13,7 @@ Using 5-fold cross-validation, the following models were trained and compared:
 ## **Screenshots:**
 
 MSE vs. log(lambda) - Ridge Regression Model
-
 ![graph1.png](Images/MSEvsLogLamda_Lasso.png)
 
 MSE vs. log(lambda) - Lasso Model
-
 ![graph2.png](Images/MSEvsLogLamda_Ridge.png)
