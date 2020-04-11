@@ -12,8 +12,8 @@ The objective of this project is to use R to train and compare the performance o
 
 MSE vs. log(lambda) - Ridge Regression Model
 
-![graph1.png](Images/MSEvsLogLamda_Lasso.png)
+![graph1.png](Images/MSEvsLogLamda_Ridge.png)
 
 MSE vs. log(lambda) - Lasso Model
 
-![graph2.png](Images/MSEvsLogLamda_Ridge.png)
+![graph2.png](Images/MSEvsLogLamda_Lasso.png)
