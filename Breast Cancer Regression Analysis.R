@@ -1,5 +1,6 @@
-#CHL7001 Applied Machine Learning for Health Data - Assignment 1
-#Name: Ivy Fong (1000735145)
+#Applied Machine Learning for Health Data 
+#Breast Cancer Regression Analysis
+#Name: Ivy Fong
 #Date: October 28, 2018
 
 #set working directory
