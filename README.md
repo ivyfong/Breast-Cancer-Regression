@@ -8,7 +8,7 @@ Using 5-fold cross-validation, the following linear regression models were train
 * Lasso model
 
 ## **Tools:**
-1.	R - glmnet
+R - glmnet
 
 ## **Screenshots:**
 MSE vs. log(lambda) - Ridge regression model
